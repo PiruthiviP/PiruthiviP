@@ -7,9 +7,9 @@
 ✉️ Email: piruthiviu@gmail.com
 ## 💻 What I'm Learning:
  ### Programming Languages:  
-     C, C++, Java, Python, and more...
+     C, C++, Java, Python
 ### Web Development: 
-    HTML, CSS
+    HTML, CSS, Javascript,react.js
 
 ##  🛠️ Familiar With:
 ### Languages: 
